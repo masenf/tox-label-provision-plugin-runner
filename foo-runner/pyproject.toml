@@ -1,0 +1,8 @@
+[project]
+name = "foo_runner"
+description = "a dummy tox plugin"
+version = "0.1"
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2,<4"]
